@@ -41,3 +41,8 @@ Link to the website: https://www.avvocatoatomico.com/
 
 The author of the book had no role in the development, content, or presentation of this project.
 Any opinions, interpretations, or potential inaccuracies are solely the responsibility of the author.
+
+## Presentation Notes
+
+For correct visualization of animations, a recent version of Microsoft PowerPoint
+with support for the *Morph* transition is recommended.
