@@ -29,7 +29,7 @@ The goal is to promote **scientific literacy and critical thinking**, separating
 
 - Fundamentals of nuclear fission and reactor operation  
 - Moderators, control rods, and reactor criticality
-- 
+
 ## Background and Inspiration
 
 This project was inspired in part by the book *L’avvocato dell’atomo* by Luca Romano,
